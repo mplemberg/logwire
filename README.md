@@ -17,6 +17,8 @@ To run the API you can either:
 2. Use mvn to create an executable jar, "mvn install", and run the following command in the command line "java -jar logwire-api-BETA.jar"
 3. Run the provided executable jar by running the following command in the command line "java -jar logwire-api-BETA.jar"
 
+If you are running an executable jar, please make sure a copy the "application.properties" file is in the same directory you are running from
+
 #Front End Directions#
 1.npm install
 2.Make sure API is running at http://localhost:8080, if otherwise update the API url in webpack.config.js
