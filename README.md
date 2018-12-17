@@ -1,8 +1,7 @@
 # LogWire Log Analyzer
 A tool for parsing through weblogs. Both front-end and back-end are co-located in one repo for convenience.
 
-
-#Back End Directions#
+# Back End Directions
 
 Requires at least Java 8
 
@@ -19,7 +18,8 @@ To run the API you can either:
 
 If you are running an executable jar, please make sure a copy the "application.properties" file is in the same directory you are running from
 
-#Front End Directions#
+# Front End Directions
+
 1.npm install
 2.Make sure API is running at http://localhost:8080, if otherwise update the API url in webpack.config.js
 3.npm start
