@@ -20,9 +20,9 @@ If you are running an executable jar, please make sure a copy the "application.p
 
 # Front End Directions
 
-1.npm install
-2.Make sure API is running at http://localhost:8080, if otherwise update the API url in webpack.config.js
-3.npm start
-4."oooo ahhhh nice"
+1. npm install
+2. Make sure API is running at http://localhost:8080, if otherwise update the API url in webpack.config.js
+3. npm start
+4. "oooo ahhhh nice"
 
 
